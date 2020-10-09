@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{40D7BCB3-F64F-424B-BE42-F2EB3B943AA3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mjbbkjbj/UnitTest1.cs">
+    <Files>
+      <File FileName="Sai_Assignment2/Program.cs" Line="2" Column="22" />
+      <File FileName="Sai_Assignment2/TriangleSolver.cs" Line="37" Column="58" />
+      <File FileName="mjbbkjbj/UnitTest1.cs" Line="30" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sai_Assignment1" expanded="True">
+            <Node name="mjbbkjbj" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Sai_Assignment1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Sai_Assignment1" expanded="True">
+            <Node name="mjbbkjbj" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Sai__Assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>TestTriangle2/TestTriangle2.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

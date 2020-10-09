@@ -1,0 +1,12 @@
+/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/bin/Debug/netcoreapp3.1/Sai_Assignment1.deps.json
+/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/bin/Debug/netcoreapp3.1/Sai_Assignment1.runtimeconfig.json
+/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/bin/Debug/netcoreapp3.1/Sai_Assignment1.runtimeconfig.dev.json
+/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/bin/Debug/netcoreapp3.1/Sai_Assignment1.dll
+/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/bin/Debug/netcoreapp3.1/Sai_Assignment1.pdb
+/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/obj/Debug/netcoreapp3.1/Sai_Assignment1.csprojAssemblyReference.cache
+/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/obj/Debug/netcoreapp3.1/Sai_Assignment1.AssemblyInfoInputs.cache
+/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/obj/Debug/netcoreapp3.1/Sai_Assignment1.AssemblyInfo.cs
+/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/obj/Debug/netcoreapp3.1/Sai_Assignment1.csproj.CoreCompileInputs.cache
+/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/obj/Debug/netcoreapp3.1/Sai_Assignment1.dll
+/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/obj/Debug/netcoreapp3.1/Sai_Assignment1.pdb
+/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/obj/Debug/netcoreapp3.1/Sai_Assignment1.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sai_Assignment1", "Sai_Assignment2\Sai_Assignment1.csproj", "{40D7BCB3-F64F-424B-BE42-F2EB3B943AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTriangle", "mjbbkjbj\TestTriangle.csproj", "{BE72B488-416B-499C-BB04-D0D3729995A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D7BCB3-F64F-424B-BE42-F2EB3B943AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D7BCB3-F64F-424B-BE42-F2EB3B943AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D7BCB3-F64F-424B-BE42-F2EB3B943AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D7BCB3-F64F-424B-BE42-F2EB3B943AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE72B488-416B-499C-BB04-D0D3729995A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE72B488-416B-499C-BB04-D0D3729995A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE72B488-416B-499C-BB04-D0D3729995A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE72B488-416B-499C-BB04-D0D3729995A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
