@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{2911DA54-98FC-4274-8AD0-253EEE5EC90F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TriangleSolver.cs">
+    <Files>
+      <File FileName="../TestTriangle/TriangleTest1.cs" Line="123" Column="2" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="TriangleSolver.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sai_Assignment1" expanded="True">
+            <Node name="Sai_Assignment1" expanded="True">
+              <Node name="TriangleSolver.cs" selected="True" />
+            </Node>
+            <Node name="TestTriangle" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Sai_Assignment1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Sai__Assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

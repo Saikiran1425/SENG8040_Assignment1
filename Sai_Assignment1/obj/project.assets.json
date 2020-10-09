@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/Sai_Assignment1.csproj",
+      "projectUniqueName": "/Users/kashyapk/Projects/Sai_Assignment1/Sai_Assignment1/Sai_Assignment1.csproj",
       "projectName": "Sai_Assignment1",
-      "projectPath": "/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/Sai_Assignment1.csproj",
+      "projectPath": "/Users/kashyapk/Projects/Sai_Assignment1/Sai_Assignment1/Sai_Assignment1.csproj",
       "packagesPath": "/Users/kashyapk/.nuget/packages/",
-      "outputPath": "/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/obj/",
+      "outputPath": "/Users/kashyapk/Projects/Sai_Assignment1/Sai_Assignment1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kashyapk/.config/NuGet/NuGet.Config"

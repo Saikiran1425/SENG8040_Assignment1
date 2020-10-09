@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sai_Assignment1", "Sai_Assignment1.csproj", "{2911DA54-98FC-4274-8AD0-253EEE5EC90F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTriangle", "..\TestTriangle\TestTriangle.csproj", "{6DD630F1-109B-4C51-B388-A86754FFAB5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2911DA54-98FC-4274-8AD0-253EEE5EC90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2911DA54-98FC-4274-8AD0-253EEE5EC90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2911DA54-98FC-4274-8AD0-253EEE5EC90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2911DA54-98FC-4274-8AD0-253EEE5EC90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD630F1-109B-4C51-B388-A86754FFAB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD630F1-109B-4C51-B388-A86754FFAB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD630F1-109B-4C51-B388-A86754FFAB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD630F1-109B-4C51-B388-A86754FFAB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

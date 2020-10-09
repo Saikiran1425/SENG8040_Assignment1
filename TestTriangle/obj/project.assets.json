@@ -4631,8 +4631,8 @@
     },
     "Sai_Assignment1/1.0.0": {
       "type": "project",
-      "path": "../Sai_Assignment2/Sai_Assignment1.csproj",
-      "msbuildProject": "../Sai_Assignment2/Sai_Assignment1.csproj"
+      "path": "../Sai_Assignment1/Sai_Assignment1.csproj",
+      "msbuildProject": "../Sai_Assignment1/Sai_Assignment1.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4649,11 +4649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kashyapk/Projects/Sai_Assignment2/mjbbkjbj/TestTriangle.csproj",
+      "projectUniqueName": "/Users/kashyapk/Projects/Sai_Assignment1/TestTriangle/TestTriangle.csproj",
       "projectName": "TestTriangle",
-      "projectPath": "/Users/kashyapk/Projects/Sai_Assignment2/mjbbkjbj/TestTriangle.csproj",
+      "projectPath": "/Users/kashyapk/Projects/Sai_Assignment1/TestTriangle/TestTriangle.csproj",
       "packagesPath": "/Users/kashyapk/.nuget/packages/",
-      "outputPath": "/Users/kashyapk/Projects/Sai_Assignment2/mjbbkjbj/obj/",
+      "outputPath": "/Users/kashyapk/Projects/Sai_Assignment1/TestTriangle/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kashyapk/.config/NuGet/NuGet.Config"
@@ -4667,8 +4667,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/Sai_Assignment1.csproj": {
-              "projectPath": "/Users/kashyapk/Projects/Sai_Assignment2/Sai_Assignment2/Sai_Assignment1.csproj"
+            "/Users/kashyapk/Projects/Sai_Assignment1/Sai_Assignment1/Sai_Assignment1.csproj": {
+              "projectPath": "/Users/kashyapk/Projects/Sai_Assignment1/Sai_Assignment1/Sai_Assignment1.csproj"
             }
           }
         }
